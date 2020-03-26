@@ -78,3 +78,5 @@ const attractions = [
     className: 'w-third-l ml5-l'
   }
 ];
+
+export default attractions;
